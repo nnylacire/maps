@@ -1,2 +1,3 @@
 # maps
-disease mapping using R
+Porroca disease in coconut palms located in Panama
+Disease incidence mapping using R
